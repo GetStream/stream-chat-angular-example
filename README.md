@@ -1,5 +1,9 @@
 # ChatExampleV3
 
+Stream-chat-angular example app.
+
+Provide you user id, user token and app id in the `app.component.ts` file.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
